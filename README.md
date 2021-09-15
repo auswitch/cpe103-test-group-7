@@ -2,6 +2,6 @@
 
 Switch
 
-Tung
+Tang
 
 biw
